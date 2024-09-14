@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+* {
+    background-color: white;
+    color: #041F3D;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', 'Montserrat', 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh; /* Make sure the body takes up the full viewport height */
+    margin: 0;
+    text-align: center;
+    flex-direction: column;
+}
+
+h2, h3 {
+    font-family: 'Montserrat', 'Roboto', sans-serif;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.social-media-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.social-media-links img {
+    height: 50px;
+    width: 50px;
+    margin: 0 10px;
+
+}
