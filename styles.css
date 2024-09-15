@@ -66,6 +66,6 @@ img {
 
 /* Ensure body height takes full viewport height */
 html, body {
-    height: 85%;
+    height: 100%;
     margin: 0;
 }
