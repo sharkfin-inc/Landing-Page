@@ -30,7 +30,6 @@ body {
     min-height: 100vh;
     z-index: -1;
     object-fit: cover;
-    background-color: transparent;
 }
 
 h1, h2 {
