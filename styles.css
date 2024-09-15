@@ -30,6 +30,12 @@ body {
     min-height: 100vh;
     z-index: -1;
     object-fit: cover;
+    background-color: transparent;
+}
+
+        /* Fallback background color */
+.video-fallback {
+    background-color: #041F3D; /* Fallback color if video is not loaded (e.g., tomato color) */
 }
 
 h1, h2 {
