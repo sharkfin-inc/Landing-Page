@@ -33,11 +33,6 @@ body {
     background-color: transparent;
 }
 
-        /* Fallback background color */
-.video-fallback {
-    background-color: #041F3D; /* Fallback color if video is not loaded (e.g., tomato color) */
-}
-
 h1, h2 {
     font-family: 'Montserrat', 'Roboto', sans-serif;
     color: white; /* Adjust color to stand out against the video */
