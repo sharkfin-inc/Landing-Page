@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@font-face {
+    font-family: 'REZ';
+    src: url('/img/REZ.ttf') format('truetype');
+}
 
 * {
     background-color: transparent;
